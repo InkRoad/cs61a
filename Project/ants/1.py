@@ -1,0 +1,2 @@
+res = True ^ True
+print(res)

@@ -1,0 +1,3 @@
+python ok --local ：本地测试
+python ok --local -q [function] : 本地测试某个函数
+python ok --local --score : 总得分
